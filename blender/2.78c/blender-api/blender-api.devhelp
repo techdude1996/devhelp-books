@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<book xmlns="http://www.devhelp.net/book" title="Blender 2.78c API Documentaion" link="contents.html" author="" name="blender-api-doc" version="2.78c" language="Python" online="https://docs.blender.org/api/blender_python_api_2_78c_release/">
+	<chapters>
+		<sub name="Blender/Python Documentation" link="contents.html#blender-python-documentation">
+			<sub name="Blender/Python Quickstart" link="info_quickstart.html">
+				<sub name="Preface" link="info_quickstart.html#preface"/>
+				<sub name="Before Starting" link="info_quickstart.html#before-starting">
+					<sub name="Running Scripts" link="info_quickstart.html#running-scripts"/>
+				</sub>
+				<sub name="Key Concepts" link="info_quickstart.html#key-concepts">
+					<sub name="Data Access" link="info_quickstart.html#data-access">
+						<sub name="Accessing DataBlocks" link="info_quickstart.html#accessing-datablocks"/>
+						<sub name="About Collections" link="info_quickstart.html#about-collections"/>
+						<sub name="Accessing Attributes" link="info_quickstart.html#accessing attributes"/>
+						<sub name="Data Creation/Removal" link="info_quickstart.html#data-creation-removal"/>
+						<sub name="Custom Properties" link="info_quickstart.html#custom-properties"/>
+					</sub>
+				</sub>
+				<sub name="Context" link="info_quickstart.html#context"/>
+				<sub name="Operators (Tools)" link="info_quickstart.html#operators-tools">
+					<sub name="Operator Poll()" link="info_quickstart.html#operator-poll"/>
+				</sub>
+				<sub name="Integration" link="info_quickstart.html#integration">
+					<sub name="Example Operator" link="info_quickstart.html#example-operator"/>
+					<sub name="Example Panel" link="info_quickstart.html#example-panel"/>
+				</sub>
+				<sub name="Types" link="info_quickstart.html#types">
+					<sub name="Native Types" link="info_quickstart.html#native-types"/>
+					<sub name="Internal Types" link="info_quickstart.html#internal-types"/>
+					<sub name="Mathutils Types" link="info_quickstart.html#mathutils-types"/>
+				</sub>
+				<sub name="Animation" link="info_quickstart.html#animation"/>
+			</sub>
+			<sub name="Blender/Python API Overview" link="info_overview.html">
+				<sub name="Python in Blender" link="info_overview.html#python-in-blender"/>
+				<sub name="The Default Environment" link="info_overview.html#the-default-environment"/>
+				<sub name="Script Loading" link="info_overview.html#script-loading">
+					<sub name="Addons" link="info_overview.html#addons"/>
+				</sub>
+				<sub name="Integration Through Classes" link="info_overview.html#integration-through-classes"/>
+				<sub name="Registration" link="info_overview.html#registration">
+					<sub name="Module Registration" link="info_overview.html#module-registration"/>
+					<sub name="Class Registration" link="info_overview.html#class-registration">
+						<sub name="Multiple-Clases" link="info_overview.html#multiple-classes"/>
+						<sub name="Inter Classes Dependencies" link="info_overview.html#inter-classes-dependencies"/>
+						<sub name="Manipulating Classes" link="info_overview.html#manipulating-classes"/>
+						<sub name="Dynamic Defined-Classes (Advanced)" link="info_overview.html#dynamic-defined-classes-advanced"/>
+					</sub>
+				</sub>
+			</sub>
+			<sub name="Blender/Python Addon Tutorial" link="info_tutorial_addon.html">
+				<sub name="Introduction" link="info_tutorial_addon.html#introduction">
+					<sub name="Intended Audience" link="info_tutorial_addon.html#intended-audience">
+						<sub name="Prerequisites" link="info_tutorial_addon.html#prerequisites"/>
+					</sub>
+					<sub name="Documentation Links" link="info_tutorial_addon.html#documentation-links"/>
+				</sub>
+				<sub name="Addons" link="info_tutorial_addon.html#addons">
+					<sub name="What is an Addon?" link="info_tutorial_addon.html#what-is-an-addon"/>
+					<sub name="Your First Addon" link="info_tutorial_addon.html#your-first-addon">
+						<sub name="Write the Script" link="info_tutorial_addon.html#write-the-script"/>
+						<sub name="Write the Addon (Simple)" link="info_tutorial_addon.html#write-the-addon-simple"/>
+						<sub name="Install the Addon" link="info_tutorial_addon.html#install-the-addon"/>
+					</sub>
+					<sub name="Your Second Addon" link="info_tutorial_addon.html#your-second-addon">
+						<sub name="Write the Script" link="info_tutorial_addon.html#id1"/>
+						<sub name="Write the Addon" link="info_tutorial_addon.html#write-the-addon">
+							<sub name="Operator Property" link="info_tutorial_addon.html#operator-property"/>
+							<sub name="Menu Item" link="info_tutorial_addon.html#menu-item"/>
+							<sub name="Keymap" link="info_tutorial_addon.html#keymap"/>
+							<sub name="Bringing it all Together" link="info_tutorial_addon.html#bringing-it-all-together"/>
+						</sub>
+					</sub>
+					<sub name="Conclusions" link="info_tutorial_addon.html#conclusions">
+						<sub name="Further Reading" link="info_tutorial_addon.html#further-reading"/>
+					</sub>
+				</sub>
+			</sub>
+			<sub name="Blender/Python API Reference Usage" link="info_api_reference.html">
+				<sub name="Reference API Scope" link="info_api_reference.html#reference-api-scope"/>
+				<sub name="Data Access" link="info_api_reference.html#data-access">
+					<sub name="ID Data" link="info_api_reference.html#id-data"/>
+					<sub name="Simple Data Access" link="info_api_reference.html#simple-data-access"/>
+					<sub name="Nested Properties" link="info_api_reference.html#nested-properties"/>
+					<sub name="Copy Data Path" link="info_api_reference.html#copy-data-path"/>
+					<sub name="Indirect Data Access" link="info_api_reference.html#indirect-data-access"/>
+				</sub>
+				<sub name="Operators" link="info_api_reference.html#operators">
+					<sub name="Info View" link="info_api_reference.html#info-view"/>
+				</sub>
+			</sub>
+			<sub name="Best Practice" link="info_best_practice.html">
+				<sub name="Style Conventions" link="info_best_practice.html#stye-conventions"/>
+				<sub name="User Interface Layout" link="info_best_practice.html#user-interface-layout"/>
+				<sub name="Script Efficiency" link="Script Efficiency#script-efficiency">
+					<sub name="List Manipulation (General Python Tips)" link="info_best_practice.html#list-manipulation-general-python-tips">
+						<sub name="Searching for List Items" link="info_best_practice.html#searching-for-list-items"/>
+						<sub name="Modifying Lists" link="info_best_practice.html#modifying-lists"/>
+						<sub name="Adding List Items" link="info_best_practice.html#adding-list-items"/>
+						<sub name="Removing List Items" link="info_best_practice.html#removing-list-items"/>
+						<sub name="Avoid Copying Lists" link="info_best_practice.html#avoid-copying-lists"/>
+					</sub>
+					<sub name="Writing Strings to a File (Python General)" link="info_best_practice.html#writing-strings-to-a-file-python-general"/>
+					<sub name="Parsing Strings (Import/Exporting)" link="info_best_practice.html#parsing-strings-import-exporting">
+						<sub name="Parsing Numbers" link="info_best_practice.html#parsing-numbers"/>
+						<sub name="Checking String Start/End" link="info_best_practice.html#checking-string-start-end"/>
+					</sub>
+					<sub name="Use try/except Sparingly" link="info_best_practice.html#use try-except-sparingly"/>
+					<sub name="Value Comparison" link="info_best_practice.html#value-comparison"/>
+					<sub name="Time Your Code" link="info_best_practice.html#time your code"/>
+				</sub>
+			</sub>
+			<sub name="Tips and Tricks" link="info_tips_and_tricks.html">
+				<sub name="Use The Terminal" link="info_tips_and_tricks.html#use-the-terminal"/>
+				<sub name="Interface Tricks" link="info_tips_and_tricks.html#interface-tricls">
+					<sub name="Access Operator Commands" link="info_tips_and_tricks.html#access-operator-commands"/>
+					<sub name="Access Data Path" link="info_tips_and_tricks.html#access-data-path"/>
+				</sub>
+				<sub name="Show All Operators" link="info_tips_and_tricks.html#show-all-operators"/>
+				<sub name="Use an External Editor" link="info_tips_and_tricks.html#use-an-external-editor">
+					<sub name="Executing External Scripts" link="info_tips_and_tricks.html#executing-external-scripts"/>
+					<sub name="Executing Modules" link="info_tips_and_tricks.html#executing-modules"/>
+				</sub>
+				<sub name="Don't Use Blender!" link="info_tips_and_tricks.html#don-t-use-blender"/>
+				<sub name="Use External Tools" link="info_tips_and_tricks.html#use-external-tools"/>
+				<sub name="Bundled Python &amp; Extensions" link="info_tips_and_tricks.html#bundled-python-and-extensions"/>
+				<sub name="Drop Into a Python Interpreter in Your Script" link="info_tips_and_tricks.html#drop-into-a-python-interpreter-in-your-script"/>
+				<sub name="Advanced" link="info_tips_and_tricks.html#advanced">
+					<sub name="Blender as a module" link="info_tips_and_tricks.html#blender-as-a-module"/>
+					<sub name="Python Safety (Build Option)" link="info_tips_and_tricks.html#python-safety-build-option"/>
+				</sub>
+			</sub>
+			<sub name="Gotcha's" link="info_gotcha.html">
+				<sub name="Using Operators" link="info_gotcha.html#using-operators">
+					<sub name="Why Does an Operator's Poll Fail?" link="info_gotcha.html#why-does-an-operator-s-poll-fail"/>
+					<sub name="The Operator Still Doesn't Work!" link="info_gotcha.html#the-operator-still-does-nt-work"/>
+				</sub>
+				<sub name="Stale Data" link="info_gotcha.html#stale-data">
+					<sub name="No Updates After Setting Values" link="info_gotcha.html#no-updates-after-setting-values"/>
+					<sub name="Can I Redraw During the Script?" link="info_gotcha.html#can-i-redraw-during-the-script"/>
+				</sub>
+				<sub name="Modes and Mesh Access" link="info_gotcha.html#modes-and-mesh-access"/>
+				<sub name="NGons and Tessellation Faces" link="info_gotcha.html#ngons-and-tessellation-faces">
+					<sub name="Support Overview" link="info_gotcha.html#support-overview"/>
+					<sub name="Creating" link="info_gotcha.html#creating"/>
+					<sub name="Editing" link="info_gotcha.html#editing"/>
+					<sub name="Exporting" link="info_gotcha.html#exporting"/>
+					<sub name="Upgrading Importers from 2.62" link="info_gotcha.html#upgrading-importers-from-2-62"/>
+					<sub name="Upgrading Exporters from 2.62" link="info_gotcha.html#upgrading-exporters-from-2-62"/>
+				</sub>
+				<sub name="EditBones, PoseBones, Bone... Bones" link="info_gotcha.html#editbones-pose-bones-bone-bones">
+					<sub name="Edit Bones" link="info_gotcha.html#edit-bones"/>
+					<sub name="Bones (Object Mode)" link="info_gotcha.html#bones-object-mode"/>
+					<sub name="Pose Bones" link="info_gotcha.html#pose-bones"/>
+					<sub name="Armature Mode Switching" link="info_gotcha.html#armature-mode-switching"/>
+				</sub>
+				<sub name="Data Names" link="info_gotcha.html#data-names">
+					<sub name="Naming Limitations" link="info_gotcha.html#naming-limitations"/>
+					<sub name="Library Collisions" link="info_gotcha.html#library-collisions"/>
+				</sub>
+				<sub name="Relative File Paths" link="info_gotcha.html#relative-file-paths"/>
+				<sub name="Unicode Problems" link="info_gotcha.html#unicode-problems"/>
+				<sub name="Strange Errors Using 'threading' Module" link="info_gotcha.html#strange-errors-using-threading-module"/>
+				<sub name="Help! My Script Crashes Blender" link="info_gotcha.html#help-my-script-crashes-blender">
+					<sub name="Undo/Redo" link="info_gotcha.html#undo-redo">
+						<sub name="Undo &amp; Library Data" link="info_gotcha.html#undo-library-data"/>
+					</sub>
+					<sub name="Edit Mode / Memory Access" link="info_gotcha.html#edit-mode-memory-access"/>
+					<sub name="Array Re-Allocation" link="info_gotcha.html#array-re-allocation"/>
+				</sub>
+				<sub name="sys.exit" link="info_gotcha.html#sys-exit"/>
+			</sub>
+		</sub>
+		<sub name="Application Modules" link="contents.html#application-modules">
+			<sub name="Context Access (bpy.context)" link="bpy.context.html">
+				<sub name="Global Context" link="bpy.context.html#global-context"/>
+				<sub name="Screen Context" link="bpy.context.html#screen-context"/>
+				<sub name="View3D Context" link="bpy.context.html#view3d-context"/>
+				<sub name="Buttons Context" link="bpy.context.html#buttons-context"/>
+				<sub name="Image Context" link="bpy.context.html#image-context"/>
+				<sub name="Node Context" link="bpy.context.html#node-context"/>
+				<sub name="Text Context" link="bpy.context.html#text-context"/>
+				<sub name="Clip Context" link="bpy.context.html#clip-context"/>
+				<sub name="Sequencer Context" link="bpy.context.html#sequencer-context"/>
+			</sub>
+			<sub name="Data Access (bpy.data)" link="bpy.data.html"/>
+			<sub name="Operators (bpy.operators)" link="bpy.ops.html">
+				<sub name="Calling Operators" link="bpy.ops.html#calling-operators">
+					<sub name="Keywords and Positional Arguments" link="bpy.ops.html#keywords-and-positional-arguments"/>
+				</sub>
+				<sub name="Overriding Context" link="bpy.ops.html#overriding-context"/>
+				<sub name="Execution Context" link="bpy.ops.html#execution-context"/>
+				<sub name="Operator Categories" link="bpy.ops.html#operator-categories">
+					<sub name="Action Operators" link="bpy.ops.action.html">
+						<sub name="bpy.ops.action.clean()" link="bpy.ops.action.html#bpy.ops.action.clean"/>
+						<sub name="bpy.ops.action.clickselect()" link="bpy.ops.action.html#bpy.ops.action.clickselect"/>
+	</chapters>
+</book>
