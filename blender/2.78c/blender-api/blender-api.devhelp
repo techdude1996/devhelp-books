@@ -191,8 +191,50 @@
 				<sub name="Overriding Context" link="bpy.ops.html#overriding-context"/>
 				<sub name="Execution Context" link="bpy.ops.html#execution-context"/>
 				<sub name="Operator Categories" link="bpy.ops.html#operator-categories">
-					<sub name="Action Operators" link="bpy.ops.action.html">
+					<sub name="Action Operators (bpy.ops.action)" link="bpy.ops.action.html">
 						<sub name="bpy.ops.action.clean()" link="bpy.ops.action.html#bpy.ops.action.clean"/>
 						<sub name="bpy.ops.action.clickselect()" link="bpy.ops.action.html#bpy.ops.action.clickselect"/>
+						<sub name="bpy.ops.action.copy()" link="bpy.ops.action.html#bpy.ops.action.copy"/>
+						<sub name="bpy.ops.action.delete()" link="bpy.ops.action.html#bpy.ops.action.delete"/>
+						<sub name="bpy.ops.action.duplicate()" link="bpy.ops.action.html#bpy.ops.action.duplicate"/>
+						<sub name="bpy.ops.action.duplicate_move()" link="bpy.ops.action.html#bpy.ops.action.duplicate_move"/>
+						<sub name="bpy.ops.action.extrapolation_type()" link="bpy.ops.action.html#bpy.ops.action.extrapolation_type"/>
+						<sub name="bpy.ops.action.frame_jump()" link="bpy.ops.action.html#bpy.ops.action.frame_jump"/>
+						<sub name="bpy.ops.action.handle_type()" link="bpy.ops.action.html#bpy.ops.action.handle_type"/>
+						<sub name="bpy.ops.action.interpolation_type()" link="bpy.ops.action.html#bpy.ops.action.interpolation_type"/>
+						<sub name="bpy.ops.action.keyframe_insert()" link="bpy.ops.action.html#bpy.ops.action.keyframe_insert"/>
+						<sub name="bpy.ops.action.keyframe_type()" link="bpy.ops.action.html#bpy.ops.action.keyframe_type"/>
+						<sub name="bpy.ops.action.layer_next()" link="bpy.ops.action.html#bpy.ops.action.layer_next"/>
+						<sub name="bpy.ops.action.layer_prev()" link="bpy.ops.action.html#bpy.ops.action.layer_prev"/>
+						<sub name="bpy.ops.action.markers_make_local()" link="bpy.ops.action.html#bpy.ops.action.markers_make_local"/>
+						<sub name="bpy.ops.action.mirror()" link="bpy.ops.action.html#bpy.ops.action.mirror"/>
+						<sub name="bpy.ops.action.new()" link="bpy.ops.action.html#bpy.ops.action.new"/>
+						<sub name="bpy.ops.action.paste()" link="bpy.ops.action.html#bpy.ops.action.paste"/>
+						<sub name="bpy.ops.action.previewrange_set()" link="bpy.ops.action.html#bpy.ops.action.previewrange_set"/>
+						<sub name="bpy.ops.action.properties()" link="bpy.ops.action.html#bpy.ops.action.properties"/>
+						<sub name="bpy.ops.action.push_down()" link="bpy.ops.action.html#bpy.ops.action.push_down"/>
+						<sub name="bpy.ops.action.sample()" link="bpy.ops.action.html#bpy.ops.action.sample"/>
+						<sub name="bpy.ops.action.select_all_toggle()" link="bpy.ops.action.html#bpy.ops.action.select_all_toggle"/>
+						<sub name="bpy.ops.action.select_border()" link="bpy.ops.action.html#bpy.ops.action.select_border"/>
+						<sub name="bpy.ops.action.select_circle()" link="bpy.ops.action.html#bpy.ops.action.select_circle"/>
+						<sub name="bpy.ops.action.select_column()" link="bpy.ops.action.html#bpy.ops.action.select_column"/>
+						<sub name="bpy.ops.action.select_lasso()" link="bpy.ops.action.html#bpy.ops.action.select_lasso"/>
+						<sub name="bpy.ops.action.select_leftright()" link="bpy.ops.action.html#bpy.ops.action.select_leftright"/>
+						<sub name="bpy.ops.action.select_less()" link="bpy.ops.action.html#bpy.ops.action.select_less"/>
+						<sub name="bpy.ops.action.select_linked()" link="bpy.ops.action.html#bpy.ops.action.select_linked"/>
+						<sub name="bpy.ops.action.select_more()" link="bpy.ops.action.html#bpy.ops.action.select_more"/>
+						<sub name="bpy.ops.action.snap()" link="bpy.ops.action.html#bpy.ops.action.snap"/>
+						<sub name="bpy.ops.action.stash()" link="bpy.ops.action.html#bpy.ops.action.stash"/>
+						<sub name="bpy.ops.action.stash_and_create()" link="bpy.ops.action.html#bpy.ops.action.stash_and_create"/>
+						<sub name="bpy.ops.action.unlink()" link="bpy.ops.action.html#bpy.ops.action.unlink"/>
+						<sub name="bpy.ops.action.view_all()" link="bpy.ops.action.html#bpy.ops.action.view_all"/>
+						<sub name="bpy.ops.action.view_frame()" link="bpy.ops.action.html#bpy.ops.action.view_frame"/>
+						<sub name="bpy.ops.action.view_selected()" link="bpy.ops.action.html#bpy.ops.action.view_selected"/>
+					</sub>
+					<sub name="Animation Operators (bpy.ops.anim)" link="bpy.ops.anim.html"/>
+					<sub name="Armature Operators (bpy.ops.armature)" link="bpy.ops.armature.html"/>
+				</sub>
+			</sub>
+		</sub>
 	</chapters>
 </book>
