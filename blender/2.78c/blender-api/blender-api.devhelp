@@ -276,7 +276,44 @@
 						<sub name="bpy.ops.anim.previewrange_set()" link="bpy.ops.anim.html#bpy.ops.anim.previewrange_set"/>
 						<sub name="bpy.ops.anim.update_animated_transform_constraints()" link="bpy.ops.anim.html#bpy.ops.anim.update_animated_transform_contraints"/>
 					</sub>
-					<sub name="Armature Operators (bpy.ops.armature)" link="bpy.ops.armature.html"/>
+					<sub name="Armature Operators (bpy.ops.armature)" link="bpy.ops.armature.html">
+						<sub name="bpy.ops.armature.align()" link="bpy.ops.armature.html#bpy.ops.armature.align"/>
+						<sub name="bpy.ops.armature.armature_layers()" link="bpy.ops.armature.html#bpy.ops.armature.armature_layers"/>
+						<sub name="bpy.ops.armature.autoside_names()" link="bpy.ops.armature.html#bpy.ops.armature.autoside_names"/>
+						<sub name="bpy.ops.armature.bone_layers()" link="bpy.ops.armature.html#bpy.ops.armature.bone_layers"/>
+						<sub name="bpy.ops.armature.bone_primitive_add()" link="bpy.ops.armature.html#bpy.ops.armature.bone_primitive_add"/>
+						<sub name="bpy.ops.armature.calculate_roll()" link="bpy.ops.armature.html#bpy.ops.armature.calculate_roll"/>
+						<sub name="bpy.ops.armature.click_extrude()" link="bpy.ops.armature.html#bpy.ops.armature.click_extrude"/>
+						<sub name="bpy.ops.armature.delete()" link="bpy.ops.armature.html#bpy.ops.armature.delete"/>
+						<sub name="bpy.ops.armature.dissolve()" link="bpy.ops.armature.html#bpy.ops.armature.dissolve"/>
+						<sub name="bpy.ops.armature.duplicate()" link="bpy.ops.armature.html#bpy.ops.armature.duplicate"/>
+						<sub name="bpy.ops.armature.duplicate_move()" link="bpy.ops.armature.html#bpy.ops.armature.duplicate_move"/>
+						<sub name="bpy.ops.armature.extrude()" link="bpy.ops.armature.html#bpy.ops.armature.extrude"/>
+						<sub name="bpy.ops.armature.extrude_forked()" link="bpy.ops.armature.html#bpy.ops.armature.extrude_forked"/>
+						<sub name="bpy.ops.armature.extrude_move()" link="bpy.ops.armature.html#bpy.ops.armature.extrude_move"/>
+						<sub name="bpy.ops.armature.fill()" link="bpy.ops.armature.html#bpy.ops.armature.fill"/>
+						<sub name="bpy.ops.armature.flip_names()" link="bpy.ops.armature.html#bpy.ops.armature.flip_names"/>
+						<sub name="bpy.ops.armature.hide()" link="bpy.ops.armature.html#bpy.ops.armature.hide"/>
+						<sub name="bpy.ops.armature.layers_show_all()" link="bpy.ops.armature.html#bpy.ops.armature.layers_show_all"/>
+						<sub name="bpy.ops.armature.merge()" link="bpy.ops.armature.html#bpy.ops.armature.merge"/>
+						<sub name="bpy.ops.armature.parent_clear()" link="bpy.ops.armature.html#bpy.ops.armature.parent_clear"/>
+						<sub name="bpy.ops.armature.parent_set()" link="bpy.ops.armature.html#bpy.ops.armature.parent_set"/>
+						<sub name="bpy.ops.armature.reveal()" link="bpy.ops.armature.html#bpy.ops.armature.reveal"/>
+						<sub name="bpy.ops.armature.roll_clear()" link="bpy.ops.armature.html#bpy.ops.armature.roll_clear"/>
+						<sub name="bpy.ops.armature.select_all()" link="bpy.ops.armature.html#bpy.ops.armature.select_all"/>
+						<sub name="bpy.ops.armature.select_hierarchy()" link="bpy.ops.armature.html#bpy.ops.armature.select_hierarchy"/>
+						<sub name="bpy.ops.armature.select_less()" link="bpy.ops.armature.html#bpy.ops.armature.select_less"/>
+						<sub name="bpy.ops.armature.slect_linked()" link="bpy.ops.armature.html#bpy.ops.armature.select_linked"/>
+						<sub name="bpy.ops.armature.slect_mirror()" link="bpy.ops.armature.html#bpy.ops.armature.select_mirror"/>
+						<sub name="bpy.ops.armature.select_more()" link="bpy.ops.armature.html#bpy.ops.armature.select_more"/>
+						<sub name="bpy.ops.armature.select_similar()" link="bpy.ops.armature.html#bpy.ops.armature.select_similar"/>
+						<sub name="bpy.ops.armature.separate()" link="bpy.ops.armature.html#bpy.ops.armature.separate"/>
+						<sub name="bpy.ops.armature.shortest_path_pick()" link="bpy.ops.armature.html#bpy.ops.armature.shortest_path_pick"/>
+						<sub name="bpy.ops.armature.split()" link="bpy.ops.armature.html#bpy.ops.armature.split"/>
+						<sub name="bpy.ops.armature.subdivide()" link="bpy.ops.armature.html#bpy.ops.armature.subdivide"/>
+						<sub name="bpy.ops.armature.switch_direction()" link="bpy.ops.armature.html#bpy.ops.armature.switch_direction"/>
+						<sub name="bpy.ops.armature.symmetrize()" link="bpy.ops.armature/html#bpy.ops.armature.symmetrize"/>
+					</sub>
 				</sub>
 			</sub>
 		</sub>
