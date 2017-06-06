@@ -231,7 +231,21 @@
 						<sub name="bpy.ops.action.view_frame()" link="bpy.ops.action.html#bpy.ops.action.view_frame"/>
 						<sub name="bpy.ops.action.view_selected()" link="bpy.ops.action.html#bpy.ops.action.view_selected"/>
 					</sub>
-					<sub name="Animation Operators (bpy.ops.anim)" link="bpy.ops.anim.html"/>
+					<sub name="Animation Operators (bpy.ops.anim)" link="bpy.ops.anim.html">
+						<sub name="bpy.ops.anim.change_frame()" link="bpy.ops.anim.html#bpy.ops.anim.change_frame"/>
+						<sub name="bpy.ops.anim.channel_select_keys()" link="bpy.ops.anim.html#bpy.ops.anim.channel_select_keys"/>
+						<sub name="bpy.ops.anim.channels_clean_empty()" link="bpy.ops.anim.html#bpy.ops.anim.channels_clean_empty"/>
+						<sub name="bpy.ops.anim.channels_click()" link="bpy.ops.anim.html#bpy.ops.anim.channels_click"/>
+						<sub name="bpy.ops.anim.channels_collapse()" link="bpy.ops.anim.html#bpy.ops.anim.channels_collapse"/>
+						<sub name="bpy.ops.anim.channels_delete()" link="bpy.ops.anim.html#bpy.ops.anim.channels_delete"/>
+						<sub name="bpy.ops.anim.channels_editable_toggle()" link="bpy.ops.anim.html#bpy.ops.anim.channels_editable_toggle"/>
+						<sub name="bpy.ops.anim.channels_expand()" link="bpy.ops.anim.html#bpy.ops.anim.channels_expand"/>
+						<sub name="bpy.ops.anim.channels_fcurves_enable()" link="bpy.ops.anim.html#bpy.ops.anim.channels_fcurves_enable"/>
+						<sub name="bpy.ops.anim.channels_find()" link="bpy.ops.anim.html#bpy.ops.anim.channels_find"/>
+						<sub name="bpy.ops.anim.channels_group()" link="bpy.ops.anim.html#bpy.ops.anim.channels_group"/>
+						<sub name="bpy.ops.anim.channels_move()" link="bpy.ops.anim.html#bpy.ops.anim.channels_move"/>
+						<sub name="bpy.ops.anim.channels_rename()" link="bpy.ops.anim.html#bpy.ops.anim.channels_rename"/>
+						<sub name="bpy.ops.anim.channels_select_all_toggle()" link="bpy.ops.anim.html#bpy.ops.anim.channels_select_all_toggle"/>
 					<sub name="Armature Operators (bpy.ops.armature)" link="bpy.ops.armature.html"/>
 				</sub>
 			</sub>
