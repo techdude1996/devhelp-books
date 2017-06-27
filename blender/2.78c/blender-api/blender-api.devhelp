@@ -314,6 +314,130 @@
 						<sub name="bpy.ops.armature.switch_direction()" link="bpy.ops.armature.html#bpy.ops.armature.switch_direction"/>
 						<sub name="bpy.ops.armature.symmetrize()" link="bpy.ops.armature/html#bpy.ops.armature.symmetrize"/>
 					</sub>
+					<sub name="Boid Operators (bpy.ops.boid)" link="bpy.ops.boid.html">
+						<sub name="bpy.ops.boid.rule_add()" link="bpy.ops.boid.html#bpy.ops.boid.rule_add"/>
+						<sub name="bpy.ops.boid.rule_del()" link="bpy.ops.boid.html#bpy.ops.boid.rule_del"/>
+						<sub name="bpy.ops.boid.rule_move_down()" link="bpy.ops.boid.html#bpy.ops.boid.rule_move_down"/>
+						<sub name="bpy.ops.boid.rule_move_up()" link="bpy.ops.boid.html#bpy.ops.boid.rule_move_up"/>
+						<sub name="bpy.ops.boid.state_add()" link="bpy.ops.boid.html#bpy.ops.boid.state_add"/>
+						<sub name="bpy.ops.boid.state_del()" link="bpy.ops.boid.html#bpy.ops.boid.state_del"/>
+						<sub name="bpy.ops.boid.state_move_down()" link="bpy.ops.boid.html#bpy.ops.boid.state_move_down"/>
+						<sub name="bpy.ops.boid.state_move_up()" link="bpy.ops.boid.html#bpy.ops.boid.state_move_up"/>
+					</sub>
+					<sub name="Brush Operators (bpy.ops.brush)" link="bpy.ops.brush.html">
+						<sub name="bpy.ops.brush.active_index_set()" link="bpy.ops.brush.html#bpy.ops.brush.active_index_set"/>
+						<sub name="bpy.ops.brush.add()" link="bpy.ops.brush.html#bpy.ops.brush.add"/>
+						<sub name="bpy.ops.brush.curve_preset()" link="bpy.ops.brush.html#bpy.ops.brush.curve_preset"/>
+						<sub name="bpy.ops.brush.reset()" link="bpy.ops.brush.html#bpy.ops.brush.reset"/>
+						<sub name="bpy.ops.brush.scale_size()" link="bpy.ops.brush.html#bpy.ops.brush.scale_size"/>
+						<sub name="bpy.ops.brush.stencil_control()" link="bpy.ops.brush.html#bpy.ops.brush.stencil_control"/>
+						<sub name="bpy.ops.brush.stencil_fit_image_aspect()" link="bpy.ops.brush.html#bpy.ops.brush.stencil_fit_image_aspect"/>
+						<sub name="bpy.ops.brush.stencil_reset_transform()" link="bpy.ops.brush.html#bpy.ops.brush.stencil_reset_transform"/>
+						<sub name="bpy.ops.brush.uv_sculpt_tool_set()" link="bpy.ops.brush.html#bpy.ops.brush.uv_sculpt_tool_set"/>
+					</sub>
+					<sub name="Button Operators (bpy.ops.buttons)" link="bpy.ops.buttons.html">
+						<sub name="bpy.ops.buttons.directory_browse()" link="bpy.ops.buttons.html#bpy.ops.buttons.directory_browse"/>
+						<sub name="bpy.ops.buttons.file_browse()" link="bpy.ops.buttons.html#bpy.ops.buttons.file_browse"/>
+						<sub name="bpy.ops.buttons.toolbox()" link="bpy.ops.buttons.html#bpy.ops.buttons.toolbox"/>
+					</sub>
+					<sub name="Cachefile Operators (bpy.ops.cachefile)" link="bpy.ops.cachefile.html">
+						<sub name="bpy.ops.cachefile.open()" link="bpy.ops.cachefile.html#bpy.ops.cachefile.open"/>
+						<sub name="bpy.ops.cachefile.reload()" link="bpy.ops.cachefile.html#bpy.ops.cachefile.reload"/>
+					</sub>
+					<sub name="Camera Operators (bpy.ops.camera)" link="bpy.ops.camera.html">
+						<sub name="bpy.ops.camera.preset_add()" link="bpy.ops.camera.html#bpy.ops.camera.preset_add"/>
+					</sub>
+					<sub name="Clip Operators (bpy.ops.clip)" link="bpy.ops.clip.html">
+						<sub name="bpy.ops.clip.add_marker()" link="bpy.ops.clip.html#bpy.ops.clip.add_marker"/>
+						<sub name="bpy.ops.clip.add_marker_at_click()" link="bpy.ops.clip.html#bpy.ops.clip.add_marker_at_clip"/>
+						<sub name="bpy.ops.clip.add_marker_slide()" link="bpy.ops.clip.html#bpy.ops.clip.add_marker_slide"/>
+						<sub name="bpy.ops.clip.apply_solution_scale()" link="bpy.ops.clip.html#bpy.ops.clip.add_solution_scale"/>
+						<sub name="bpy.ops.clip.bundles_to_mesh()" link="bpy.ops.clip.html#bpy.ops.clip.bundles_to_mesh"/>
+						<sub name="bpy.ops.clip.camera_preset_add()" link="bpy.ops.clip.html#bpy.ops.clip.camera_preset_add"/>
+						<sub name="bpy.ops.clip.change_frame()" link="bpy.ops.clip.html#bpy.ops.clip.change_frame"/>
+						<sub name="bpy.ops.clip.clean_tracks()" link="bpy.ops.clip.html#bpy.ops.clip.clean_tracks"/>
+						<sub name="bpy.ops.clip.clear_solution()" link="bpy.ops.clip.html#bpy.ops.clip.clear_solution"/>
+						<sub name="bpy.ops.clip.clear_track_path()" link="bpy.ops.clip.html#bpy.ops.clip.clear_track_path"/>
+						<sub name="bpy.ops.clip.contraint_to_fcurve()" link="bpy.ops.clip.html#bpy.ops.clip.constraint_to_fcurve"/>
+						<sub name="bpy.ops.clip.copy_tracks()" link="bpy.ops.clip.html#bpy.ops.clip.copy_tracks"/>
+						<sub name="bpy.ops.clip.create_plane_track()" link="bpy.ops.clip.html#bpy.ops.clip.create_plane_track"/>
+						<sub name="bpy.ops.clip.cursor_set()" link="bpy.ops.clip.html#bpy.ops.clip.cursor_set"/>
+						<sub name="bpy.ops.clip.delete_marker()" link="bpy.ops.clip.html#bpy.ops.clip.delete_marker"/>
+						<sub name="bpy.ops.clip.delete_proxy()" link="bpy.ops.clip.html#bpy.ops.clip.delete_proxy"/>
+						<sub name="bpy.ops.clip.delete_track()" link="bpy.ops.clip.html#bpy.ops.clip.delete_track"/>
+						<sub name="bpy.ops.clip.detect_features()" link="bpy.ops.clip.html#bpy.ops.clip.detect_features"/>
+						<sub name="bpy.ops.clip.disable_markers()" link="bpy.ops.clip.html#bpy.ops.clip.disable_markers"/>
+						<sub name="bpy.ops.clip.dopesheet_select_channel()" link="bpy.ops.clip.html#bpy.ops.clip.dopesheet_select_channel"/>
+						<sub name="bpy.ops.clip.dopesheet_view_all()" link="bpy.ops.clip.html#bpy.ops.clip.dopesheet_view_all"/>
+						<sub name="bpy.ops.clip.filter_tracks()" link="bpy.ops.clip.html#bpy.ops.clip.filter_tracks"/>
+						<sub name="bpy.ops.clip.frame_jump()" link="bpy.ops.clip.html#bpy.ops.clip.frame_jump"/>
+						<sub name="bpy.ops.clip.graph_center_current_frame()" link="bpy.ops.clip.html#bpy.ops.clip.graph_center_current_frame"/>
+						<sub name="bpy.ops.clip.graph_delete_curve()" link="bpy.ops.clip.html#bpy.ops.clip.graph_delete_curve"/>
+						<sub name="bpy.ops.clip.graph_delete_knot()" link="bpy.ops.clip.html#bpy.ops.clip.graph_delete_knot"/>
+						<sub name="bpy.ops.clip.graph_disable_markers()" link="bpy.ops.clip.html#bpy.ops.clip.graph_disable_markers"/>
+						<sub name="bpy.ops.clip.graph_select()" link="bpy.ops.clip.html#bpy.ops.clip.graph_select"/>
+						<sub name="bpy.ops.clip.graph_select_all_markers()" link="bpy.ops.clip.html#bpy.ops.clip.graph_select_all_markers"/>
+						<sub name="bpy.ops.clip.graph_select_border()" link="bpy.ops.clip.html#bpy.ops.clip.graph_select_border"/>
+						<sub name="bpy.ops.clip.graph_view_all()" link="bpy.ops.clip.html#bpy.ops.clip.graph_view_all"/>
+						<sub name="bpy.ops.clip.hide_tracks()" link="bpy.ops.clip.html#bpy.ops.clip.hide_tracks"/>
+						<sub name="bpy.ops.clip.hide_tracks_clear()" link="bpy.ops.clip.html#bpy.ops.clip.hide_tracks_clear"/>
+						<sub name="bpy.ops.clip.join_tracks()" link="bpy.ops.clip.html#bpy.ops.clip.join_tracks"/>
+						<sub name="bpy.ops.clip.keyframe_delete()" link="bpy.ops.clip.html#bpy.ops.clip.keyframe_delete"/>
+						<sub name="bpy.ops.clip.keyframe_insert()" link="bpy.ops.clip.html#bpy.ops.clip.keyframe_insert"/>
+						<sub name="bpy.ops.clip.lock_tracks()" link="bpy.ops.clip.html#bpy.ops.clip.lock_tracks"/>
+						<sub name="bpy.ops.clip.mode_set()" link="bpy.ops.clip.html#bpy.ops.clip.mode_set"/>
+						<sub name="bpy.ops.clip.open()" link="bpy.ops.clip.html#bpy.ops.clip.open"/>
+						<sub name="bpy.ops.clip.paste_tracks()" link="bpy.ops.clip.html#bpy.ops.clip.paste_tracks"/>
+						<sub name="bpy.ops.clip.prefetch()" link="bpy.ops.clip.html#bpy.ops.clip.prefetch"/>
+						<sub name="bpy.ops.clip.properties()" link="bpy.ops.clip.html#bpy.ops.clip.properties"/>
+						<sub name="bpy.ops.clip.rebuild_proxy()" link="bpy.ops.clip.html#bpy.ops.clip.rebuild_proxy"/>
+						<sub name="bpy.ops.clip.refine_markers()" link="bpy.ops.clip.html#bpy.ops.clip.refine_markers"/>
+						<sub name="bpy.ops.clip.reload()" link="bpy.ops.clip.html#bpy.ops.clip.reload"/>
+						<sub name="bpy.ops.clip.select()" link="bpy.ops.clip.html#bpy.ops.clip.select"/>
+						<sub name="bpy.ops.clip.select_all()" link="bpy.ops.clip.html#bpy.ops.clip.select_all"/>
+						<sub name="bpy.ops.clip.select_border()" link="bpy.ops.clip.html#bpy.ops.clip.select_border"/>
+						<sub name="bpy.ops.clip.select_circle()" link="bpy.ops.clip.html#bpy.ops.clip.select_circle"/>
+						<sub name="bpy.ops.clip.select_grouped()" link="bpy.ops.clip.html#bpy.ops.clip.select_grouped"/>
+						<sub name="bpy.ops.clip.select_lasso()" link="bpy.ops.clip.html#bpy.ops.clip.select_lasso"/>
+						<sub name="bpy.ops.clip.set_active_clip()" link="bpy.ops.clip.html#bpy.ops.clip.set_active_clip"/>
+						<sub name="bpy.ops.clip.set_axis()" link="bpy.ops.clip.html#bpy.ops.clip.set_axis"/>
+						<sub name="bpy.ops.clip.set_center_principal()" link="bpy.ops.clip.html#bpy.ops.clip.set_center_principal"/>
+						<sub name="bpy.ops.clip.set_origin()" link="bpy.ops.clip.html#bpy.ops.clip.set_origin"/>
+						<sub name="bpy.ops.clip.set_plane()" link="bpy.ops.clip.html#bpy.ops.clip.set_plane"/>
+						<sub name="bpy.ops.clip.set_scale()" link="bpy.ops.clip.html#bpy.ops.clip.set_scale"/>
+						<sub name="bpy.ops.clip.set_scene_frames()" link="bpy.ops.clip.html#bpy.ops.clip.set_scene_frames"/>
+						<sub name="bpy.ops.clip.set_solution_scale()" link="bpy.ops.clip.html#bpy.ops.clip.set_solution_scale"/>
+						<sub name="bpy.ops.clip.set_solver_keyframe()" link="bpy.ops.clip.html#bpy.ops.clip.set_solver_keyframe"/>
+						<sub name="bpy.ops.clip.set_viewport_background()" link="bpy.ops.clip.html#bpy.ops.clip.set_viewport_background"/>
+						<sub name="bpy.ops.clip.setup_tracking_scene()" link="bpy.ops.clip.html#bpy.ops.clip.setup_tracking_scene"/>
+						<sub name="bpy.ops.clip.slide_marker()" link="bpy.ops.clip.html#bpy.ops.clip.slide_marker"/>
+						<sub name="bpy.ops.clip.slide_plane_marker()" link="bpy.ops.clip.html#bpy.ops.clip.slide_plane_marker"/>
+						<sub name="bpy.ops.clip.solve_camera()" link="bpy.ops.clip.html#bpy.ops.clip.solve_camera"/>
+						<sub name="bpy.ops.clip.stabalize_2d_add()" link="bpy.ops.clip.html#bpy.ops.clip.stabalize_2d_add"/>
+						<sub name="bpy.ops.clip.stabalize_2d_remove()" link="bpy.ops.clip.html#bpy.ops.clip.stabalize_2d_remove"/>
+						<sub name="bpy.ops.clip.stabalize_2d_rotation_add()" link="bpy.ops.clip.html#bpy.ops.clip.stabalize_2d_rotation_add"/>
+						<sub name="bpy.ops.clip.stabalize_2d_rotation_remove()" link="bpy.ops.clip.html#bpy.ops.clip.stabalize_2d_rotation_remove"/>
+						<sub name="bpy.ops.clip.stabalize_2d_rotation_select()" link="bpy.ops.clip.html#bpy.ops.clip.stabalize_2d_rotation_select"/>
+						<sub name="bpy.ops.clip.stabalize_2d_select()" link="bpy.ops.clip.html#bpy.ops.clip.stabalize_2d_select"/>
+						<sub name="bpy.ops.clip.tools()" link="bpy.ops.clip.html#bpy.ops.clip.toold"/>
+						<sub name="bpy.ops.clip.track_color_preset_add()" link="bpy.ops.clip.html#bpy.ops.clip.track_color_preset_add"/>
+						<sub name="bpy.ops.clip.track_color_copy()" link="bpy.ops.clip.html#bpy.ops.clip.track_color_copy"/>
+						<sub name="bpy.ops.clip.track_markers()" link="bpy.ops.clip.html#bpy.ops.clip.track_markers"/>
+						<sub name="bpy.ops.clip.track_settings_as_default()" link="bpy.ops.clip.track_settings_as_default"/>
+						<sub name="bpy.ops.clip.track_settings_to_track()" link="bpy.ops.clip.html#bpy.ops.clip.track_settings_to_track"/>
+						<sub name="bpy.ops.clip.track_to_empty()" link="bpy.ops.clip.html#bpy.ops.clip.track_to_empty"/>
+						<sub name="bpy.ops.clip.tracking_object_new()" link="bpy.ops.clip.html#bpy.ops.clip.tracking_object_new"/>
+						<sub name="bpy.ops.clip.tracking_object_remove()" link="bpy.ops.clip.html#bpy.ops.clip.tracking_object_remove"/>
+						<sub name="bpy.ops.clip.tracking_settings_preset_add()" link="bpy.ops.clip.html#bpy.ops.clip.tracking_settings_preset_add"/>
+						<sub name="bpy.ops.clip.view_all()" link="bpy.ops.clip.html#bpy.ops.clip.view_all"/>
+						<sub name="bpy.ops.clip.view_ndof()" link="bpy.ops.clip.html#bpy.ops.clip.view_ndof"/>
+						<sub name="bpy.ops.clip.view_pan()" link="bpy.ops.clip.html#bpy.ops.clip.view_pan"/>
+						<sub name="bpy.ops.clip.view_selected()" link="bpy.ops.clip.html#bpy.ops.clip.view_selected"/>
+						<sub name="bpy.ops.clip.view_zoom()" link="bpy.ops.clip.html#bpy.ops.clip.view_zoom"/>
+						<sub name="bpy.ops.clip.view_zoom_in()" link="bpy.ops.clip.html#bpy.ops.clip.view_zoom_in"/>
+						<sub name="bpy.ops.clip.view_zoom_out()" link="bpy.ops.clip.html#view_zoom_out"/>
+						<sub name="bpy.ops.clip.view_zoom_ratio()" link="bpy.ops.clip.html#bpy.ops.clip.view_zoom_ratio"/>
+					</sub>
 				</sub>
 			</sub>
 		</sub>
