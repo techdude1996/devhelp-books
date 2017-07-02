@@ -349,9 +349,9 @@
 					</sub>
 					<sub name="Clip Operators (bpy.ops.clip)" link="bpy.ops.clip.html">
 						<sub name="bpy.ops.clip.add_marker()" link="bpy.ops.clip.html#bpy.ops.clip.add_marker"/>
-						<sub name="bpy.ops.clip.add_marker_at_click()" link="bpy.ops.clip.html#bpy.ops.clip.add_marker_at_clip"/>
+						<sub name="bpy.ops.clip.add_marker_at_click()" link="bpy.ops.clip.html#bpy.ops.clip.add_marker_at_click"/>
 						<sub name="bpy.ops.clip.add_marker_slide()" link="bpy.ops.clip.html#bpy.ops.clip.add_marker_slide"/>
-						<sub name="bpy.ops.clip.apply_solution_scale()" link="bpy.ops.clip.html#bpy.ops.clip.add_solution_scale"/>
+						<sub name="bpy.ops.clip.apply_solution_scale()" link="bpy.ops.clip.html#bpy.ops.clip.apply_solution_scale"/>
 						<sub name="bpy.ops.clip.bundles_to_mesh()" link="bpy.ops.clip.html#bpy.ops.clip.bundles_to_mesh"/>
 						<sub name="bpy.ops.clip.camera_preset_add()" link="bpy.ops.clip.html#bpy.ops.clip.camera_preset_add"/>
 						<sub name="bpy.ops.clip.change_frame()" link="bpy.ops.clip.html#bpy.ops.clip.change_frame"/>
@@ -413,15 +413,15 @@
 						<sub name="bpy.ops.clip.slide_marker()" link="bpy.ops.clip.html#bpy.ops.clip.slide_marker"/>
 						<sub name="bpy.ops.clip.slide_plane_marker()" link="bpy.ops.clip.html#bpy.ops.clip.slide_plane_marker"/>
 						<sub name="bpy.ops.clip.solve_camera()" link="bpy.ops.clip.html#bpy.ops.clip.solve_camera"/>
-						<sub name="bpy.ops.clip.stabalize_2d_add()" link="bpy.ops.clip.html#bpy.ops.clip.stabalize_2d_add"/>
-						<sub name="bpy.ops.clip.stabalize_2d_remove()" link="bpy.ops.clip.html#bpy.ops.clip.stabalize_2d_remove"/>
-						<sub name="bpy.ops.clip.stabalize_2d_rotation_add()" link="bpy.ops.clip.html#bpy.ops.clip.stabalize_2d_rotation_add"/>
-						<sub name="bpy.ops.clip.stabalize_2d_rotation_remove()" link="bpy.ops.clip.html#bpy.ops.clip.stabalize_2d_rotation_remove"/>
-						<sub name="bpy.ops.clip.stabalize_2d_rotation_select()" link="bpy.ops.clip.html#bpy.ops.clip.stabalize_2d_rotation_select"/>
-						<sub name="bpy.ops.clip.stabalize_2d_select()" link="bpy.ops.clip.html#bpy.ops.clip.stabalize_2d_select"/>
+						<sub name="bpy.ops.clip.stabilize_2d_add()" link="bpy.ops.clip.html#bpy.ops.clip.stabilize_2d_add"/>
+						<sub name="bpy.ops.clip.stabilize_2d_remove()" link="bpy.ops.clip.html#bpy.ops.clip.stabilize_2d_remove"/>
+						<sub name="bpy.ops.clip.stabilize_2d_rotation_add()" link="bpy.ops.clip.html#bpy.ops.clip.stabilize_2d_rotation_add"/>
+						<sub name="bpy.ops.clip.stabilize_2d_rotation_remove()" link="bpy.ops.clip.html#bpy.ops.clip.stabilize_2d_rotation_remove"/>
+						<sub name="bpy.ops.clip.stabilize_2d_rotation_select()" link="bpy.ops.clip.html#bpy.ops.clip.stabilize_2d_rotation_select"/>
+						<sub name="bpy.ops.clip.stabilize_2d_select()" link="bpy.ops.clip.html#bpy.ops.clip.stabilize_2d_select"/>
 						<sub name="bpy.ops.clip.tools()" link="bpy.ops.clip.html#bpy.ops.clip.toold"/>
 						<sub name="bpy.ops.clip.track_color_preset_add()" link="bpy.ops.clip.html#bpy.ops.clip.track_color_preset_add"/>
-						<sub name="bpy.ops.clip.track_color_copy()" link="bpy.ops.clip.html#bpy.ops.clip.track_color_copy"/>
+						<sub name="bpy.ops.clip.track_copy_color()" link="bpy.ops.clip.html#bpy.ops.clip.track_copy_color"/>
 						<sub name="bpy.ops.clip.track_markers()" link="bpy.ops.clip.html#bpy.ops.clip.track_markers"/>
 						<sub name="bpy.ops.clip.track_settings_as_default()" link="bpy.ops.clip.track_settings_as_default"/>
 						<sub name="bpy.ops.clip.track_settings_to_track()" link="bpy.ops.clip.html#bpy.ops.clip.track_settings_to_track"/>
@@ -437,6 +437,184 @@
 						<sub name="bpy.ops.clip.view_zoom_in()" link="bpy.ops.clip.html#bpy.ops.clip.view_zoom_in"/>
 						<sub name="bpy.ops.clip.view_zoom_out()" link="bpy.ops.clip.html#view_zoom_out"/>
 						<sub name="bpy.ops.clip.view_zoom_ratio()" link="bpy.ops.clip.html#bpy.ops.clip.view_zoom_ratio"/>
+					</sub>
+					<sub name="Cloth Operators (bpy.ops.cloth)" link="bpy.ops.cloth.html">
+						<sub name="bpy.ops.cloth.preset_add()" link="bpy.ops.cloth.html#bpy.ops.cloth.preset_add"/>
+					</sub>
+					<sub name="Console Operators (bpy.ops.console)" link="bpy.ops.console.html">
+						<sub name="bpy.ops.console.autocomplete()" link="bpy.ops.console.html#bpy.ops.console.autocomplete"/>
+						<sub name="bpy.ops.console.banner()" link="bpy.ops.console.html#bpy.ops.console.banner"/>
+						<sub name="bpy.ops.console.clear()" link="bpy.ops.console.html#bpy.ops.console.clear"/>
+						<sub name="bpy.ops.console.clear_link()" link="bpy.ops.console.html#bpy.ops.console.clear_line"/>
+						<sub name="bpy.ops.console.copy()" link="bpy.ops.console.html#bpy.ops.console.copy"/>
+						<sub name="bpy.ops.console.copy_as_script()" link="bpy.ops.console.html#bpy.ops.console.copy_as_script"/>
+						<sub name="bpy.ops.console.delete()" link="bpy.ops.console.html#bpy.ops.console.delete"/>
+						<sub name="bpy.ops.console.execute()" link="bpy.ops.console.html#bpy.ops.console.execute"/>
+						<sub name="bpy.ops.console.history_append()" link="bpy.ops.console.html#bpy.ops.console.history_append"/>
+						<sub name="bpy.ops.console.history_cycle()" link="bpy.ops.console.html#bpy.ops.console.history_cycle"/>
+						<sub name="bpy.ops.console.indent()" link="bpy.ops.console.html#bpy.ops.console.indent"/>
+						<sub name="bpy.ops.console.insert()" link="bpy.ops.console.html#bpy.ops.console.insert"/>
+						<sub name="bpy.ops.console.language()" link="bpy.ops.console.html#bpy.ops.console.language"/>
+						<sub name="bpy.ops.console.move()" link="bpy.ops.console.html#bpy.ops.console.move"/>
+						<sub name="bpy.ops.console.paste()" link="bpy.ops.console.html#bpy.ops.console.paste"/>
+						<sub name="bpy.ops.console.scrollback_append()" link="bpy.ops.console.html#bpy.ops.console.scrollback_append"/>
+						<sub name="bpy.ops.console.select_set()" link="bpy.ops.console.html#bpy.ops.console.select_set"/>
+						<sub name="bpy.ops.console.select_word()" link="bpy.ops.console.html#bpy.ops.console.select_word"/>
+						<sub name="bpy.ops.console.unindent()" link="bpy.ops.console.html#bpy.ops.console.unindent"/>
+					</sub>
+					<sub name="Constraint Operators (bpy.ops.contraint)" link="bpy.ops.console.html">
+						<sub name="bpy.ops.constraint.childof_clear_inverse()" link="bpy.ops.constraint.html#bpy.ops.constraint.childof_clear_inverse"/>
+						<sub name="bpy.ops.constraint.childof_set_inverse()" link="bpy.ops.constraint.html#bpy.ops.constraint.childof_set_inverse"/>
+						<sub name="bpy.ops.constraint.delete()" link="bpy.ops.constraint.html#bpy.ops.constraint.delete"/>
+						<sub name="bpy.ops.constraint.followpath_path_animate()" link="bpy.ops.constraint.html#bpy.ops.constraint.followpath_path_animate"/>
+						<sub name="bpy.ops.constraint.limitdistance_reset()" link="bpy.ops.constraint.html#bpy.ops.constraint.limitdistance_reset"/>
+						<sub name="bpy.ops.constraint.move_up()" link="bpy.ops.constraint.html#bpy.ops.constraint.move_up"/>
+						<sub name="bpy.ops.constraint.objectsolver_clear_inverse()" link="bpy.ops.constraint.html#bpy.ops.constraint.objectsolver_clear_inverse"/>
+						<sub name="bpy.ops.constraint.objectsolver_set_inverse()" link="bpy.ops.constraint.html#bpy.ops.constraint.objectsolver_set_inverse"/>
+						<sub name="bpy.ops.constraint.stretchto_reset()" link="bpy.ops.constraint.html#bpy.ops.constraint.stretchto_reset"/>
+					</sub>
+					<sub name="Curve Operators (bpy.ops.curve)" link="bpy.ops.curve.html">
+						<sub name="bpy.ops.curve.cyclic_toggle()" link="bpy.ops.curve.html#bpy.ops.curve.cyclic_toggle"/>
+						<sub name="bpy.ops.curve.de_select_first()" link="bpy.ops.curve.html#bpy.ops.curve.de_select_first"/>
+						<sub name="bpy.ops.curve.de_select_last()" link="bpy.ops.curve.html#bpy.ops.curve.de_select_last"/>
+						<sub name="bpy.ops.curve.delete()" link="bpy.ops.curve.html#bpy.ops.curve.delete"/>
+						<sub name="bpy.ops.curve.dissolve_verts()" link="bpy.ops.curve.html#bpy.ops.curve.dissolve_verts"/>
+						<sub name="bpy.ops.curve.draw()" link="bpy.ops.curve.html#bpy.ops.curve.draw"/>
+						<sub name="bpy.ops.curve.duplicate()" link="bpy.ops.curve.html#bpy.ops.curve.duplicate"/>
+						<sub name="bpy.ops.curve.duplicate_move()" link="bpy.ops.curve.html#bpy.ops.curve.duplicate_move"/>
+						<sub name="bpy.ops.curve.extrude()" link="bpy.ops.curve.html#bpy.ops.curve.extrude"/>
+						<sub name="bpy.ops.curve.extrude_move()" link="bpy.ops.curve.html#bpy.ops.curve.extrude_move"/>
+						<sub name="bpy.ops.curve.handle_type_set()" link="bpy.ops.curve.html#bpy.ops.curve.handle_type_set"/>
+						<sub name="bpy.ops.curve.hide()" link="bpy.ops.curve.html#bpy.ops.curve.hide"/>
+						<sub name="bpy.ops.curve.make_segment()" link="bpy.ops.curve.html#bpy.ops.curve.make_segment"/>
+						<sub name="bpy.ops.curve.match_texture_space()" link="bpy.ops.curve.html#bpy.ops.curve.match_texture_space"/>
+						<sub name="bpy.ops.curve.normals_make_consistent()" link="bpy.ops.curve.html#bpy.ops.curve.normals_make_consistent"/>
+						<sub name="bpy.ops.curve.primitive_bezier_circle_add()" link="bpy.ops.curve.html#bpy.ops.curve.primitive_bezier_circle_add"/>
+						<sub name="bpy.ops.curve.primitive_bezier_curve_add()" link="bpy.ops.curve.html#bpy.ops.curve.primitive_bezier_curve_add"/>
+						<sub name="bpy.ops.curve.primitive_nurbs_circle_add()" link="bpy.ops.curve.html#bpy.ops.curve.primitive_nurbs_circle_add"/>
+						<sub name="bpy.ops.curve.primitive_nurbs_curve_add()" link="bpy.ops.curve.html#bpy.ops.curve.primitive_nurbs_curve_add"/>
+						<sub name="bpy.ops.curve.primitive_nurbs_path_add()" link="bpy.ops.curve.html#bpy.ops.curve.primitive_nurbs_path_add()"/>
+						<sub name="bpy.ops.curve.radius_set()" link="bpy.ops.curve.html#bpy.ops.curve.radius_set"/>
+						<sub name="bpy.ops.curve.reveal()" link="bpy.ops.curve.html#bpy.ops.curve.reveal"/>
+						<sub name="bpy.ops.curve.select_all()" link="bpy.ops.curve.html#bpy.ops.curve.select_all"/>
+						<sub name="bpy.ops.curve.select_less()" link="bpy.ops.curve.html#bpy.ops.curve.select_less"/>
+						<sub name="bpy.ops.curve.select_linked()" link="bpy.ops.curve.html#bpy.ops.curve.select_linked"/>
+						<sub name="bpy.ops.curve.select_linked_pick()" link="bpy.ops.curve.html#bpy.ops.curve.select_linked_picked"/>
+						<sub name="bpy.ops.curve.select_more()" link="bpy.ops.curve.html#bpy.ops.curve.select_more"/>
+						<sub name="bpy.ops.curve.select_next()" link="bpy.ops.curve.html#bpy.ops.curve.select_next"/>
+						<sub name="bpy.ops.curve.select_nth()" link="bpy.ops.curve.html#bpy.ops.curve.select_nth"/>
+						<sub name="bpy.ops.curve.select_previous()" link="bpy.ops.curve.html#bpy.ops.curve.select_previous"/>
+						<sub name="bpy.ops.curve.select_random()" link="bpy.ops.curve.html#bpy.ops.curve.select_random"/>
+						<sub name="bpy.ops.curve.select_row()" link="bpy.ops.curve.html#bpy.ops.curve.select_row"/>
+						<sub name="bpy.ops.curve.select_similar()" link="bpy.ops.curve.html#bpy.ops.curve.select_similar"/>
+						<sub name="bpy.ops.curve.separate()" link="bpy.ops.curve.html#bpy.ops.curve.separate"/>
+						<sub name="bpy.ops.curve.shade_flat()" link="bpy.ops.curve.html#bpy.ops.curve.shade_flat"/>
+						<sub name="bpy.ops.curve.shade_smooth()" link="bpy.ops.curve.html#bpy.ops.curve.shade_smooth"/>
+						<sub name="bpy.ops.curve.shortest_path_pick()" link="bpy.ops.curve.html#bpy.ops.curve.shortest_path_pick"/>
+						<sub name="bpy.ops.curve.smooth()" link="bpy.ops.curve.html#bpy.ops.curve.smooth"/>
+						<sub name="bpy.ops.curve.smooth_radius()" link="bpy.ops.curve.html#bpy.ops.curve.smooth_radius"/>
+						<sub name="bpy.ops.curve.smooth_tilt()" link="bpy.ops.curve.html#bpy.ops.curve.smooth_tilt"/>
+						<sub name="bpy.ops.curve.smooth_weight()" link="bpy.ops.curve.html#bpy.ops.curve.smooth_weight"/>
+						<sub name="bpy.ops.curve.spline_type_set()" link="bpy.ops.curve.html#bpy.ops.curve.spline_type_set"/>
+						<sub name="bpy.ops.curve.spline_weight_set()" link="bpy.ops.curve.html#bpy.ops.curve.spline_weight_set"/>
+						<sub name="bpy.ops.curve.split()" link="bpy.ops.curve.html#bpy.ops.curve.split"/>
+						<sub name="bpy.ops.curve.subdivide()" link="bpy.ops.curve.html#bpy.ops.curve.subdivide"/>
+						<sub name="bpy.ops.curve.switch_direction()" link="bpy.ops.curve.html#bpy.ops.curve.switch_direction"/>
+						<sub name="bpy.ops.curve.tilt_clear()" link="bpy.ops.curve.html#bpy.ops.curve.tilt_clear"/>
+						<sub name="bpy.ops.curve.vertex_add()" link="bpy.ops.curve.html#bpy.ops.curve.vertex_add"/>
+					</sub>
+					<sub name="Cycles Operators (bpy.ops.cycles)" link="bpy.ops.cycles">
+						<sub name="bpy.ops.cycles.use_shading_nodes()" link="bpy.ops.cycles.html#bpy.ops.cycles.use_shading_nodes"/>
+					</sub>
+					<sub name="Dpaint Operators (bpy.ops.dpaint)" link="bpy.ops.dpaint.html">
+						<sub name="bpy.ops.dpaint.bake()" link="bpy.ops.dpaint.html#bpy.ops.dpaint.bake"/>
+						<sub name="bpy.ops.dpaint.output_toggle()" link="bpy.ops.dpaint.html#bpy.ops.dpaint.output_toggle"/>
+						<sub name="bpy.ops.dpaint.surface_slot_add()" link="bpy.ops.dpaint.html#bpy.ops.dpaint.surface_slot_add"/>
+						<sub name="bpy.ops.dpaint.surface_slot_remove()" link="bpy.ops.dpaint.html#bpy.ops.dpaint.surface_slot_remove"/>
+						<sub name="bpy.ops.dpaint.type_toggle()" link="bpy.ops.dpaint.html#bpy.ops.dpaint.type_toggle"/>
+					</sub>
+					<sub name="Ed Operators (bpy.ops.ed)" link="bpy.ops.ed.html">
+						<sub name="bpy.ops.ed.flush_edits()" link="bpy.ops.ed.html#bpy.ops.ed.flush_edits"/>
+						<sub name="bpy.ops.ed.redo()" link="bpy.ops.ed.html#bpy.ops.ed.redo"/>
+						<sub name="bpy.ops.ed.undo()" link="bpy.ops.ed.html#bpy.ops.ed.undo"/>
+						<sub name="bpy.ops.ed.undo_history()" link="bpy.ops.ed.html#bpy.ops.ed.undo_history"/>
+						<sub name="bpy.ops.ed.undo_push()" link="bpy.ops.ed.html#bpy.ops.ed.undo_push"/>
+					</sub>
+					<sub name="Export Anim Operators (bpy.ops.export_anim)" link="bpy.ops.export_anim.html">
+						<sub name="bpy.ops.export_anim.bvh()" link="bpy.ops.export_anim.html#bpy.ops.export_anim.bvh"/>
+					</sub>
+					<sub name="Export Mesh Operators (bpy.ops.export_mesh)" link="bpy.ops.export_mesh.html">
+						<sub name="bpy.ops.export_mesh.ply()" link="bpy.ops.export_mesh.html#bpy.ops.export_mesh.ply"/>
+						<sub name="bpy.ops.export_mesh.stl()" link="bpy.ops.export_mesh.html#bpy.ops.export_mesh.stl"/>
+					</sub>
+					<sub name="Export Scene Operators (bpy.ops.export_scene)" link="bpy.ops.export_scene.html">
+						<sub name="bpy.ops.export_scene.autodesk_3ds()" link="bpy.ops.export_scene.html#bpy.ops.export_scene.autodesk_3ds"/>
+						<sub name="bpy.ops.export_scene.fbx()" link="bpy.ops.export_scene.html#bpy.ops.export_scene.fbx"/>
+						<sub name="bpy.ops.export_scene.obj()" link="bpy.ops.export_scene.html#bpy.ops.export_scene.obj"/>
+						<sub name="bpy.ops.export_scene.x3d()" link="bpy.ops.export_scene.html#bpy.ops.export_scene.x3d"/>
+					</sub>
+					<sub name="File Operators (bpy.ops.file)" link="bpy.ops.file.html">
+						<sub name="bpy.ops.file.autopack_toggle()" link="bpy.ops.file.html#bpy.ops.file.autopack_toggle"/>
+						<sub name="bpy.ops.file.bookmark_add()" link="bpy.ops.file.html#bpy.ops.file.bookmark_add"/>
+						<sub name="bpy.ops.file.bookmark_cleanup()" link="bpy.ops.file.html#bpy.ops.file.bookmark_cleanup"/>
+						<sub name="bpy.ops.file.bookmark_delete()" link="bpy.ops.file.html#bpy.ops.file.bookmark_delete"/>
+						<sub name="bpy.ops.file.bookmark_move()" link="bpy.ops.file.html#bpy.ops.file.bookmark_move"/>
+						<sub name="bpy.ops.file.bookmark_toggle()" link="bpy.ops.file.html#bpy.ops.file.bookmark_toggle"/>
+						<sub name="bpy.ops.file.cancel()" link="bpy.ops.file.html#bpy.ops.file.cancel"/>
+						<sub name="bpy.ops.file.delete()" link="bpy.ops.file.html#bpy.ops.file.delete"/>
+						<sub name="bpy.ops.file.directory_new()" link="bpy.ops.file.html#bpy.ops.file.directory_new"/>
+						<sub name="bpy.ops.file.execute()" link="bpy.ops.file.html#bpy.ops.file.execute"/>
+						<sub name="bpy.ops.file.filenum()" link="bpy.ops.file.html#bpy.ops.file.filenum()"/>
+						<sub name="bpy.ops.file.filepath_drop()" link="bpy.ops.file.html#bpy.ops.file.filepath_drop"/>
+						<sub name="bpy.ops.file.find_missing_file()" link="bpy.ops.file.html#bpy.ops.file.find_missing_file"/>
+						<sub name="bpy.ops.file.hidedot()" link="bpy.ops.file.html#bpy.ops.file.hidedot"/>
+						<sub name="bpy.ops.file.highlight()" link="bpy.ops.file.html#bpy.ops.file.highlight"/>
+						<sub name="bpy.ops.file.make_paths_visible()" link="bpy.ops.file.html#bpy.ops.file.make_paths_visible"/>
+						<sub name="bpy.ops.file.make_paths_relative()" link="bpy.ops.file.html#bpy.ops.file.make_paths_relative"/>
+						<sub name="bpy.ops.file.next()" link="bpy.ops.file.html#bpy.ops.file.next"/>
+						<sub name="bpy.ops.file.pack_all()" link="bpy.ops.file.html#bpy.ops.file.pack_all"/>
+						<sub name="bpy.ops.file.pack_libraries()" link="bpy.ops.file.html#bpy.ops.file.pack_libraries"/>
+						<sub name="bpy.ops.file.parent()" link="bpy.ops.file.html#bpy.ops.file.parent"/>
+						<sub name="bpy.ops.file.previous()" link="bpy.ops.file.html#bpy.ops.file.previous"/>
+						<sub name="bpy.ops.file.refresh()" link="bpy.ops.file.html#bpy.ops.file.refresh"/>
+						<sub name="bpy.ops.file.rename()" link="bpy.ops.file.html#bpy.ops.file.rename"/>
+						<sub name="bpy.ops.file.report_missing_files()" link="bpy.ops.file.html#bpy.ops.file.report_missing_files"/>
+						<sub name="bpy.ops.file.reset_recent()" link="bpy.ops.file.html#bpy.ops.file.reset_recent"/>
+						<sub name="bpy.ops.file.select()" link="bpy.ops.file.html#bpy.ops.file.slect"/>
+						<sub name="bpy.ops.file.select_all_toggle()" link="bpy.ops.file.html#bpy.ops.file.select_all_toggle"/>
+						<sub name="bpy.ops.file.select_bookmark()" link="bpy.ops.file.html#bpy.ops.file.select_bookmark"/>
+						<sub name="bpy.ops.file.select_border()" link="bpy.ops.file.html#bpy.ops.file.select_border"/>
+						<sub name="bpy.ops.file.select_walk()" link="bpy.ops.file.html#bpy.ops.file.select_walk"/>
+						<sub name="bpy.ops.file.smoothscroll()" link="bpy.ops.file.html#bpy.ops.file.smoothscroll"/>
+						<sub name="bpy.ops.file.unpack_all()" link="bpy.ops.file.html#bpy.ops.file.unpack_all"/>
+						<sub name="bpy.ops.file.unpack_item()" link="bpy.ops.file.html#bpy.ops.file.unpack_item"/>
+						<sub name="bpy.ops.file.unpack_libraries()" link="bpy.ops.file.html#bpy.ops.file.unpack_libraries"/>
+					</sub>
+					<sub name="Fluid Operators (bpy.ops.fluid)" link="bpy.ops.fluid.html">
+						<sub name="bpy.ops.fluid.bake()" link="bpy.ops.fluid.html#bpy.ops.fluid.back"/>
+						<sub name="bpy.ops.fluid.preset_add()" link="bpy.ops.fluid.html#bpy.ops.fluid.preset_add"/>
+					</sub>
+					<sub name="Font Operators (bpy.ops.font)" link="bpy.ops.font.html">
+						<sub name="bpy.ops.font.case_set()" link="bpy.ops.font.html#bpy.ops.font.case_set"/>
+						<sub name="bpy.ops.font.case_toggle()" link="bpy.ops.font.html#bpy.ops.font.case_toggle"/>
+						<sub name="bpy.ops.font.change_character()" link="bpy.ops.font.html#bpy.ops.font.change_character"/>
+						<sub name="bpy.ops.font.change_spacing()" link="bpy.ops.font.html#bpy.ops.font.change_spacing"/>
+						<sub name="bpy.ops.font.delete()" link="bpy.ops.font.html#bpy.ops.font.delete"/>
+						<sub name="bpy.ops.font.line_break()" link="bpy.ops.font.html#bpy.ops.font.line_break"/>
+						<sub name="bpy.ops.font.move()" link="bpy.ops.font.html#bpy.ops.font.move"/>
+						<sub name="bpy.ops.font.move_select()" link="bpy.ops.font.html#bpy.ops.font.move_select"/>
+						<sub name="bpy.ops.font.open()" link="bpy.ops.font.html#bpy.ops.font.open"/>
+						<sub name="bpy.ops.font.select_all()" link="bpy.ops.font.html#bpy.ops.font.select_all"/>
+						<sub name="bpy.ops.font.style_set()" link="bpy.ops.font.html#bpy.ops.font.style_set"/>
+						<sub name="bpy.ops.font.style_toggle()" link="bpy.ops.font.html#bpy.ops.font.style_toggle"/>
+						<sub name="bpy.ops.font.text_copy()" link="bpy.ops.font.html#bpy.ops.font.text_copy"/>
+						<sub name="bpy.ops.font.text_cut()" link="bpy.ops.font.html#bpy.ops.font.text_cut"/>
+						<sub name="bpy.ops.font.text_insert()" link="bpy.ops.font.html#bpy.ops.font.text_insert"/>
+						<sub name="bpy.ops.font.text_paste()" link="bpy.ops.font.html#bpy.ops.font.text_paste"/>
+						<sub name="bpy.ops.font.text_paste_from_file()" link="bpy.ops.font.html#bpy.ops.font.text_paste_from_file"/>
+						<sub name="bpy.ops.font.textbox_add()" link="bpy.ops.font.html#bpy.ops.font.textbox_add"/>
+						<sub name="bpy.ops.font.textbox_remove()" link="bpy.ops.font.html#bpy.ops.font.textbox_remove"/>
+						<sub name="bpy.ops.font.unlink()" link="bpy.ops.font.html#bpy.ops.font.unlink"/>
 					</sub>
 				</sub>
 			</sub>
